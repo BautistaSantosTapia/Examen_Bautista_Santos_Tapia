@@ -1,0 +1,20 @@
+[
+    {
+        "id": 36,
+        "titulo": "Questioning Darwin",
+        "genero": "terror",
+        "rating": 9.9
+    },
+    {
+        "id": 59,
+        "titulo": "1969",
+        "genero": "comedia",
+        "rating": 9.9
+    },
+    {
+        "id": 48,
+        "titulo": "Taxi 4",
+        "genero": "acci\u00f3n",
+        "rating": 9.9
+    }
+]
